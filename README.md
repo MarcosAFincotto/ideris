@@ -6,7 +6,7 @@ uses Ideris.Services, Ideris.DTO.Result;
 ```
 
 ### Autenticação
-* A geração do token de autenticação é feita de forma automática pelo componente todas as vezes que o mesmo expira.
+* A geração do token de autenticação é feita de forma automática pelo próprio componente.
 
 ### Atualização
 * Busca atualizações da API
